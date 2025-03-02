@@ -1,4 +1,4 @@
-# Get Current Date and Time
+# Get Current Date and Time 
 Write-Host "`nCurrent Date and Time: $(Get-Date)" -ForegroundColor Green
 
 # Get Current Location (if Internet is available)
